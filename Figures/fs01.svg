@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="127mm" height="69.85mm" viewBox="0 0 127 69.85"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<defs>
+  <marker id="arrow" markerWidth="15" markerHeight="7" refX="5" refY="3.5" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L15,3.5 L0,7 z" stroke="context-stroke" fill="context-stroke"/>
+  </marker>
+</defs>
+<g class="plotroot xscalable yscalable" id="img-ddd0c0f5-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-ddd0c0f5-2">
+    <g transform="translate(50.61,65.78)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Relative humidity (%)</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-ddd0c0f5-3">
+    <g transform="translate(17.3,59.1)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">0</text>
+      </g>
+    </g>
+    <g transform="translate(30.24,59.1)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">20</text>
+      </g>
+    </g>
+    <g transform="translate(43.17,59.1)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">40</text>
+      </g>
+    </g>
+    <g transform="translate(56.11,59.1)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">60</text>
+      </g>
+    </g>
+    <g transform="translate(69.04,59.1)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">80</text>
+      </g>
+    </g>
+    <g transform="translate(81.98,59.1)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">100</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide colorkey" id="img-ddd0c0f5-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-ddd0c0f5-5">
+      <g transform="translate(89.73,23.61)" id="img-ddd0c0f5-6">
+        <g class="primitive">
+          <text dy="0.35em">Pajunoja et al. (2015) O:C=0.45</text>
+        </g>
+      </g>
+      <g transform="translate(89.73,27.24)" id="img-ddd0c0f5-7">
+        <g class="primitive">
+          <text dy="0.35em">Pajunoja et al. (2015) O:C=0.55</text>
+        </g>
+      </g>
+      <g transform="translate(89.73,30.87)" id="img-ddd0c0f5-8">
+        <g class="primitive">
+          <text dy="0.35em">Pajunoja et al. (2015) O:C=0.7</text>
+        </g>
+      </g>
+      <g transform="translate(89.73,34.49)" id="img-ddd0c0f5-9">
+        <g class="primitive">
+          <text dy="0.35em">Petters et al. (2009)</text>
+        </g>
+      </g>
+      <g transform="translate(89.73,38.12)" id="img-ddd0c0f5-10">
+        <g class="primitive">
+          <text dy="0.35em">Varutbangkul et al. (2006)</text>
+        </g>
+      </g>
+    </g>
+    <g stroke="#CD950C" fill-opacity="0.3" fill="#CD950C" id="img-ddd0c0f5-11">
+      <g transform="translate(87.73,38.12)" id="img-ddd0c0f5-12">
+        <path d="M-1.21,-0.48 L -1.21 0.48 -0.48 0.48 -0.48 1.21 0.48 1.21 0.48 0.48 1.21 0.48 1.21 -0.48 0.48 -0.48 0.48 -1.21 -0.48 -1.21 -0.48 -0.48 z" class="primitive"/>
+      </g>
+    </g>
+    <g stroke="#4B0082" fill-opacity="0.3" fill="#4B0082" id="img-ddd0c0f5-13">
+      <g transform="translate(87.73,34.79)" id="img-ddd0c0f5-14">
+        <path d="M-1.05,-0.91 L 1.05 -0.91 0 0.91 0 0.91 z" class="primitive"/>
+      </g>
+    </g>
+    <g stroke="#4F94CD" fill-opacity="0.3" fill="#4F94CD" id="img-ddd0c0f5-15">
+      <g transform="translate(87.73,30.87)" id="img-ddd0c0f5-16">
+        <path d="M-0,-1.21 L 1.21 0 -0 1.21 -1.21 0 z" class="primitive"/>
+      </g>
+    </g>
+    <g stroke="#000000" fill-opacity="0.3" fill="#000000" id="img-ddd0c0f5-17">
+      <g transform="translate(87.73,26.94)" id="img-ddd0c0f5-18">
+        <path d="M-1.05,0.91 L 1.05 0.91 0 -0.91 0 -0.91 z" class="primitive"/>
+      </g>
+    </g>
+    <g stroke="#8B0000" fill-opacity="0.3" fill="#8B0000" id="img-ddd0c0f5-19">
+      <g transform="translate(87.73,23.61)" id="img-ddd0c0f5-20">
+        <path d="M-0,-0.54 L 0.54 -1.08 1.08 -0.54 0.54 -0 1.08 0.54 0.54 1.08 -0 0.54 -0.54 1.08 -1.08 0.54 -0.54 -0 -1.08 -0.54 -0.54 -1.08 z" class="primitive"/>
+      </g>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-ddd0c0f5-21">
+      <g transform="translate(86.92,19.79)" id="img-ddd0c0f5-22">
+        <g class="primitive">
+          <text dy="-0em">Shapes/Colors</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g clip-path="url(#img-ddd0c0f5-23)">
+    <g id="img-ddd0c0f5-24">
+      <g pointer-events="visible" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-ddd0c0f5-25">
+        <g transform="translate(50.61,29.05)" id="img-ddd0c0f5-26">
+          <path d="M-35.31,-29.05 L 35.31 -29.05 35.31 29.05 -35.31 29.05 z" class="primitive"/>
+        </g>
+      </g>
+      <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-ddd0c0f5-27">
+        <g transform="translate(50.61,56.1)" id="img-ddd0c0f5-28">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,50.09)" id="img-ddd0c0f5-29">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,44.08)" id="img-ddd0c0f5-30">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,38.07)" id="img-ddd0c0f5-31">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,32.06)" id="img-ddd0c0f5-32">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,26.05)" id="img-ddd0c0f5-33">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,20.04)" id="img-ddd0c0f5-34">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,14.02)" id="img-ddd0c0f5-35">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,8.01)" id="img-ddd0c0f5-36">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+        <g transform="translate(50.61,2)" id="img-ddd0c0f5-37">
+          <path fill="none" d="M-35.31,0 L 35.31 0" class="primitive"/>
+        </g>
+      </g>
+      <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-ddd0c0f5-38">
+        <g transform="translate(17.3,29.05)" id="img-ddd0c0f5-39">
+          <path fill="none" d="M0,-29.05 L 0 29.05" class="primitive"/>
+        </g>
+        <g transform="translate(30.24,29.05)" id="img-ddd0c0f5-40">
+          <path fill="none" d="M0,-29.05 L 0 29.05" class="primitive"/>
+        </g>
+        <g transform="translate(43.17,29.05)" id="img-ddd0c0f5-41">
+          <path fill="none" d="M0,-29.05 L 0 29.05" class="primitive"/>
+        </g>
+        <g transform="translate(56.11,29.05)" id="img-ddd0c0f5-42">
+          <path fill="none" d="M0,-29.05 L 0 29.05" class="primitive"/>
+        </g>
+        <g transform="translate(69.04,29.05)" id="img-ddd0c0f5-43">
+          <path fill="none" d="M0,-29.05 L 0 29.05" class="primitive"/>
+        </g>
+        <g transform="translate(81.98,29.05)" id="img-ddd0c0f5-44">
+          <path fill="none" d="M0,-29.05 L 0 29.05" class="primitive"/>
+        </g>
+      </g>
+      <g class="plotpanel" id="img-ddd0c0f5-45">
+        <metadata>
+          <boundingbox value="15.304999999999993mm 0.0mm 70.615mm 58.105mm"/>
+          <unitbox value="-3.0923966073707128 0.18665372886054893 109.18479321474143 -0.19330745772109786"/>
+        </metadata>
+        <g stroke-width="0.3" class="geometry" fill-opacity="0.2" fill="#000000" id="img-ddd0c0f5-46">
+          <g transform="translate(49.64,44.08)" id="img-ddd0c0f5-47">
+            <path d="M32.34,10.52 L -32.34 10.52 -32.34 -10.52 32.34 -10.52 z" class="primitive"/>
+          </g>
+        </g>
+        <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" id="img-ddd0c0f5-48">
+          <g class="color_foo" stroke-dasharray="none" stroke="#000000" id="img-ddd0c0f5-49">
+            <g transform="translate(49.64,44.08)" id="img-ddd0c0f5-50">
+              <path fill="none" d="M-32.34,0 L 32.34 0" class="primitive"/>
+            </g>
+          </g>
+        </g>
+        <g class="geometry" id="img-ddd0c0f5-51">
+          <g stroke-width="0.3" id="img-ddd0c0f5-52">
+            <g transform="translate(60.57,38.93)" id="img-ddd0c0f5-53" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-1.47 L 0 1.47" class="primitive"/>
+            </g>
+            <g transform="translate(60.67,43.14)" id="img-ddd0c0f5-54" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-1.11 L 0 1.11" class="primitive"/>
+            </g>
+            <g transform="translate(64.16,41.02)" id="img-ddd0c0f5-55" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-1.29 L 0 1.29" class="primitive"/>
+            </g>
+            <g transform="translate(64.18,44.76)" id="img-ddd0c0f5-56" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.97 L 0 0.97" class="primitive"/>
+            </g>
+            <g transform="translate(67.6,45.91)" id="img-ddd0c0f5-57" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.87 L 0 0.87" class="primitive"/>
+            </g>
+            <g transform="translate(70.93,45.46)" id="img-ddd0c0f5-58" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.91 L 0 0.91" class="primitive"/>
+            </g>
+            <g transform="translate(70.89,47.01)" id="img-ddd0c0f5-59" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.78 L 0 0.78" class="primitive"/>
+            </g>
+            <g transform="translate(74.24,47.37)" id="img-ddd0c0f5-60" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.75 L 0 0.75" class="primitive"/>
+            </g>
+            <g transform="translate(74.15,48.47)" id="img-ddd0c0f5-61" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.65 L 0 0.65" class="primitive"/>
+            </g>
+            <g transform="translate(76.82,49.26)" id="img-ddd0c0f5-62" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.59 L 0 0.59" class="primitive"/>
+            </g>
+            <g transform="translate(76.8,50.05)" id="img-ddd0c0f5-63" class="color_Pajunoja_et_al._(2015)_O:C=0.45" stroke="#600000">
+              <path fill="none" d="M0,-0.52 L 0 0.52" class="primitive"/>
+            </g>
+            <g transform="translate(60.52,37.69)" id="img-ddd0c0f5-64" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.57 L 0 1.57" class="primitive"/>
+            </g>
+            <g transform="translate(60.48,38.61)" id="img-ddd0c0f5-65" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.5 L 0 1.5" class="primitive"/>
+            </g>
+            <g transform="translate(64.54,37.82)" id="img-ddd0c0f5-66" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.56 L 0 1.56" class="primitive"/>
+            </g>
+            <g transform="translate(64.41,38.64)" id="img-ddd0c0f5-67" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.49 L 0 1.49" class="primitive"/>
+            </g>
+            <g transform="translate(67.96,40.05)" id="img-ddd0c0f5-68" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.37 L 0 1.37" class="primitive"/>
+            </g>
+            <g transform="translate(67.96,41.54)" id="img-ddd0c0f5-69" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.25 L 0 1.25" class="primitive"/>
+            </g>
+            <g transform="translate(71.3,38.91)" id="img-ddd0c0f5-70" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.47 L 0 1.47" class="primitive"/>
+            </g>
+            <g transform="translate(71.34,40.14)" id="img-ddd0c0f5-71" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.36 L 0 1.36" class="primitive"/>
+            </g>
+            <g transform="translate(74.71,37.24)" id="img-ddd0c0f5-72" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.61 L 0 1.61" class="primitive"/>
+            </g>
+            <g transform="translate(74.75,38.36)" id="img-ddd0c0f5-73" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.52 L 0 1.52" class="primitive"/>
+            </g>
+            <g transform="translate(77.74,33.5)" id="img-ddd0c0f5-74" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.93 L 0 1.93" class="primitive"/>
+            </g>
+            <g transform="translate(77.8,35.17)" id="img-ddd0c0f5-75" class="color_Pajunoja_et_al._(2015)_O:C=0.55" stroke="#000000">
+              <path fill="none" d="M0,-1.79 L 0 1.79" class="primitive"/>
+            </g>
+            <g transform="translate(60.58,33.73)" id="img-ddd0c0f5-76" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-1.91 L 0 1.91" class="primitive"/>
+            </g>
+            <g transform="translate(60.57,34.94)" id="img-ddd0c0f5-77" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-1.81 L 0 1.81" class="primitive"/>
+            </g>
+            <g transform="translate(64.25,31.9)" id="img-ddd0c0f5-78" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-2.07 L 0 2.07" class="primitive"/>
+            </g>
+            <g transform="translate(64.26,34.13)" id="img-ddd0c0f5-79" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-1.88 L 0 1.88" class="primitive"/>
+            </g>
+            <g transform="translate(67.83,30.87)" id="img-ddd0c0f5-80" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-2.16 L 0 2.16" class="primitive"/>
+            </g>
+            <g transform="translate(67.78,33.73)" id="img-ddd0c0f5-81" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-1.91 L 0 1.91" class="primitive"/>
+            </g>
+            <g transform="translate(71.27,30.44)" id="img-ddd0c0f5-82" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-2.19 L 0 2.19" class="primitive"/>
+            </g>
+            <g transform="translate(71.27,31.95)" id="img-ddd0c0f5-83" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-2.07 L 0 2.07" class="primitive"/>
+            </g>
+            <g transform="translate(77.11,26.73)" id="img-ddd0c0f5-84" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-2.51 L 0 2.51" class="primitive"/>
+            </g>
+            <g transform="translate(77.06,29.22)" id="img-ddd0c0f5-85" class="color_Pajunoja_et_al._(2015)_O:C=0.7" stroke="#176EA4">
+              <path fill="none" d="M0,-2.3 L 0 2.3" class="primitive"/>
+            </g>
+            <g transform="translate(80.24,54.65)" id="img-ddd0c0f5-86" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.12 L 0 0.12" class="primitive"/>
+            </g>
+            <g transform="translate(80.32,54.95)" id="img-ddd0c0f5-87" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.1 L 0 0.1" class="primitive"/>
+            </g>
+            <g transform="translate(80.57,54.58)" id="img-ddd0c0f5-88" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.13 L 0 0.13" class="primitive"/>
+            </g>
+            <g transform="translate(80.66,54.86)" id="img-ddd0c0f5-89" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.11 L 0 0.11" class="primitive"/>
+            </g>
+            <g transform="translate(80.91,54.19)" id="img-ddd0c0f5-90" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.16 L 0 0.16" class="primitive"/>
+            </g>
+            <g transform="translate(81,53.92)" id="img-ddd0c0f5-91" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.19 L 0 0.19" class="primitive"/>
+            </g>
+            <g transform="translate(81.22,52.93)" id="img-ddd0c0f5-92" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.27 L 0 0.27" class="primitive"/>
+            </g>
+            <g transform="translate(81.31,52.46)" id="img-ddd0c0f5-93" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.31 L 0 0.31" class="primitive"/>
+            </g>
+            <g transform="translate(81.48,50.23)" id="img-ddd0c0f5-94" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.5 L 0 0.5" class="primitive"/>
+            </g>
+            <g transform="translate(71.14,53.4)" id="img-ddd0c0f5-95" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.23 L 0 0.23" class="primitive"/>
+            </g>
+            <g transform="translate(71,54.17)" id="img-ddd0c0f5-96" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.17 L 0 0.17" class="primitive"/>
+            </g>
+            <g transform="translate(74.24,54.27)" id="img-ddd0c0f5-97" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.16 L 0 0.16" class="primitive"/>
+            </g>
+            <g transform="translate(74.3,54.17)" id="img-ddd0c0f5-98" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.17 L 0 0.17" class="primitive"/>
+            </g>
+            <g transform="translate(80.35,54.69)" id="img-ddd0c0f5-99" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.12 L 0 0.12" class="primitive"/>
+            </g>
+            <g transform="translate(80.2,54.17)" id="img-ddd0c0f5-100" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.17 L 0 0.17" class="primitive"/>
+            </g>
+            <g transform="translate(80.54,53.63)" id="img-ddd0c0f5-101" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.21 L 0 0.21" class="primitive"/>
+            </g>
+            <g transform="translate(80.73,53.87)" id="img-ddd0c0f5-102" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.19 L 0 0.19" class="primitive"/>
+            </g>
+            <g transform="translate(80.87,53)" id="img-ddd0c0f5-103" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.27 L 0 0.27" class="primitive"/>
+            </g>
+            <g transform="translate(81.03,52.59)" id="img-ddd0c0f5-104" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.3 L 0 0.3" class="primitive"/>
+            </g>
+            <g transform="translate(81.19,51.49)" id="img-ddd0c0f5-105" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.39 L 0 0.39" class="primitive"/>
+            </g>
+            <g transform="translate(81.36,50.14)" id="img-ddd0c0f5-106" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.51 L 0 0.51" class="primitive"/>
+            </g>
+            <g transform="translate(81.38,49.01)" id="img-ddd0c0f5-107" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.61 L 0 0.61" class="primitive"/>
+            </g>
+            <g transform="translate(81.49,47.26)" id="img-ddd0c0f5-108" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.76 L 0 0.76" class="primitive"/>
+            </g>
+            <g transform="translate(78.95,53.34)" id="img-ddd0c0f5-109" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.24 L 0 0.24" class="primitive"/>
+            </g>
+            <g transform="translate(79.04,54.36)" id="img-ddd0c0f5-110" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.15 L 0 0.15" class="primitive"/>
+            </g>
+            <g transform="translate(80.27,52.62)" id="img-ddd0c0f5-111" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.3 L 0 0.3" class="primitive"/>
+            </g>
+            <g transform="translate(80.36,52.08)" id="img-ddd0c0f5-112" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.34 L 0 0.34" class="primitive"/>
+            </g>
+            <g transform="translate(80.61,52.1)" id="img-ddd0c0f5-113" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.34 L 0 0.34" class="primitive"/>
+            </g>
+            <g transform="translate(80.71,51.17)" id="img-ddd0c0f5-114" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.42 L 0 0.42" class="primitive"/>
+            </g>
+            <g transform="translate(80.98,50.25)" id="img-ddd0c0f5-115" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.5 L 0 0.5" class="primitive"/>
+            </g>
+            <g transform="translate(81.06,49.6)" id="img-ddd0c0f5-116" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.56 L 0 0.56" class="primitive"/>
+            </g>
+            <g transform="translate(81.29,47.19)" id="img-ddd0c0f5-117" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.76 L 0 0.76" class="primitive"/>
+            </g>
+            <g transform="translate(81.38,45.3)" id="img-ddd0c0f5-118" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-0.92 L 0 0.92" class="primitive"/>
+            </g>
+            <g transform="translate(81.52,38.39)" id="img-ddd0c0f5-119" class="color_Petters_et_al._(2009)" stroke="#20005C">
+              <path fill="none" d="M0,-1.51 L 0 1.51" class="primitive"/>
+            </g>
+            <g transform="translate(49.64,45.58)" id="img-ddd0c0f5-120" class="color_Varutbangkul_et_al._(2006)" stroke="#A06F00">
+              <path fill="none" d="M0,-0.9 L 0 0.9" class="primitive"/>
+            </g>
+            <g transform="translate(72.28,44.29)" id="img-ddd0c0f5-121" class="color_Varutbangkul_et_al._(2006)" stroke="#A06F00">
+              <path fill="none" d="M0,-1.01 L 0 1.01" class="primitive"/>
+            </g>
+            <g transform="translate(49.64,45.68)" id="img-ddd0c0f5-122" class="color_Varutbangkul_et_al._(2006)" stroke="#A06F00">
+              <path fill="none" d="M0,-0.89 L 0 0.89" class="primitive"/>
+            </g>
+            <g transform="translate(72.28,44.62)" id="img-ddd0c0f5-123" class="color_Varutbangkul_et_al._(2006)" stroke="#A06F00">
+              <path fill="none" d="M0,-0.98 L 0 0.98" class="primitive"/>
+            </g>
+            <g class="marker" id="img-ddd0c0f5-124">
+              <g transform="translate(60.57,40.4)" id="img-ddd0c0f5-125" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.67,44.25)" id="img-ddd0c0f5-126" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.16,42.31)" id="img-ddd0c0f5-127" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.18,45.73)" id="img-ddd0c0f5-128" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.6,46.78)" id="img-ddd0c0f5-129" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(70.93,46.37)" id="img-ddd0c0f5-130" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(70.89,47.79)" id="img-ddd0c0f5-131" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.24,48.12)" id="img-ddd0c0f5-132" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.15,49.13)" id="img-ddd0c0f5-133" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(76.82,49.85)" id="img-ddd0c0f5-134" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(76.8,50.57)" id="img-ddd0c0f5-135" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.52,39.26)" id="img-ddd0c0f5-136" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.48,40.11)" id="img-ddd0c0f5-137" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.54,39.39)" id="img-ddd0c0f5-138" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.41,40.13)" id="img-ddd0c0f5-139" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.96,41.43)" id="img-ddd0c0f5-140" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.96,42.78)" id="img-ddd0c0f5-141" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.3,40.38)" id="img-ddd0c0f5-142" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.34,41.51)" id="img-ddd0c0f5-143" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.71,38.85)" id="img-ddd0c0f5-144" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.75,39.88)" id="img-ddd0c0f5-145" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.74,35.43)" id="img-ddd0c0f5-146" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.8,36.96)" id="img-ddd0c0f5-147" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.58,35.64)" id="img-ddd0c0f5-148" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.57,36.75)" id="img-ddd0c0f5-149" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.25,33.97)" id="img-ddd0c0f5-150" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.26,36.01)" id="img-ddd0c0f5-151" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.83,33.03)" id="img-ddd0c0f5-152" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.78,35.64)" id="img-ddd0c0f5-153" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.27,32.63)" id="img-ddd0c0f5-154" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.27,34.01)" id="img-ddd0c0f5-155" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.11,29.24)" id="img-ddd0c0f5-156" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.06,31.52)" id="img-ddd0c0f5-157" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.24,54.78)" id="img-ddd0c0f5-158" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.32,55.05)" id="img-ddd0c0f5-159" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.57,54.71)" id="img-ddd0c0f5-160" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.66,54.96)" id="img-ddd0c0f5-161" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.91,54.35)" id="img-ddd0c0f5-162" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81,54.1)" id="img-ddd0c0f5-163" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.22,53.2)" id="img-ddd0c0f5-164" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.31,52.77)" id="img-ddd0c0f5-165" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.48,50.73)" id="img-ddd0c0f5-166" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.14,53.63)" id="img-ddd0c0f5-167" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71,54.33)" id="img-ddd0c0f5-168" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.24,54.42)" id="img-ddd0c0f5-169" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.3,54.33)" id="img-ddd0c0f5-170" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.35,54.81)" id="img-ddd0c0f5-171" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.2,54.33)" id="img-ddd0c0f5-172" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.54,53.84)" id="img-ddd0c0f5-173" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.73,54.06)" id="img-ddd0c0f5-174" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.87,53.26)" id="img-ddd0c0f5-175" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.03,52.89)" id="img-ddd0c0f5-176" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.19,51.88)" id="img-ddd0c0f5-177" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.36,50.65)" id="img-ddd0c0f5-178" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.38,49.62)" id="img-ddd0c0f5-179" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.49,48.01)" id="img-ddd0c0f5-180" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(78.95,53.57)" id="img-ddd0c0f5-181" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(79.04,54.51)" id="img-ddd0c0f5-182" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.27,52.91)" id="img-ddd0c0f5-183" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.36,52.42)" id="img-ddd0c0f5-184" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.61,52.44)" id="img-ddd0c0f5-185" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.71,51.6)" id="img-ddd0c0f5-186" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.98,50.75)" id="img-ddd0c0f5-187" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.06,50.16)" id="img-ddd0c0f5-188" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.29,47.95)" id="img-ddd0c0f5-189" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.38,46.22)" id="img-ddd0c0f5-190" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.52,39.9)" id="img-ddd0c0f5-191" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(49.64,46.48)" id="img-ddd0c0f5-192" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(72.28,45.3)" id="img-ddd0c0f5-193" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(49.64,46.57)" id="img-ddd0c0f5-194" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(72.28,45.6)" id="img-ddd0c0f5-195" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+            </g>
+            <g class="marker" id="img-ddd0c0f5-196">
+              <g transform="translate(60.57,37.46)" id="img-ddd0c0f5-197" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.67,42.03)" id="img-ddd0c0f5-198" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.16,39.73)" id="img-ddd0c0f5-199" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.18,43.79)" id="img-ddd0c0f5-200" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.6,45.03)" id="img-ddd0c0f5-201" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(70.93,44.55)" id="img-ddd0c0f5-202" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(70.89,46.23)" id="img-ddd0c0f5-203" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.24,46.62)" id="img-ddd0c0f5-204" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.15,47.82)" id="img-ddd0c0f5-205" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(76.82,48.68)" id="img-ddd0c0f5-206" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(76.8,49.53)" id="img-ddd0c0f5-207" stroke="#600000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.52,36.11)" id="img-ddd0c0f5-208" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.48,37.12)" id="img-ddd0c0f5-209" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.54,36.26)" id="img-ddd0c0f5-210" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.41,37.14)" id="img-ddd0c0f5-211" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.96,38.68)" id="img-ddd0c0f5-212" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.96,40.29)" id="img-ddd0c0f5-213" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.3,37.43)" id="img-ddd0c0f5-214" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.34,38.78)" id="img-ddd0c0f5-215" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.71,35.63)" id="img-ddd0c0f5-216" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.75,36.85)" id="img-ddd0c0f5-217" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.74,31.57)" id="img-ddd0c0f5-218" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.8,33.38)" id="img-ddd0c0f5-219" stroke="#000000">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.58,31.81)" id="img-ddd0c0f5-220" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(60.57,33.13)" id="img-ddd0c0f5-221" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.25,29.83)" id="img-ddd0c0f5-222" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(64.26,32.25)" id="img-ddd0c0f5-223" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.83,28.71)" id="img-ddd0c0f5-224" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(67.78,31.81)" id="img-ddd0c0f5-225" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.27,28.25)" id="img-ddd0c0f5-226" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.27,29.88)" id="img-ddd0c0f5-227" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.11,24.21)" id="img-ddd0c0f5-228" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(77.06,26.93)" id="img-ddd0c0f5-229" stroke="#176EA4">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.24,54.53)" id="img-ddd0c0f5-230" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.32,54.85)" id="img-ddd0c0f5-231" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.57,54.45)" id="img-ddd0c0f5-232" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.66,54.75)" id="img-ddd0c0f5-233" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.91,54.02)" id="img-ddd0c0f5-234" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81,53.73)" id="img-ddd0c0f5-235" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.22,52.66)" id="img-ddd0c0f5-236" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.31,52.15)" id="img-ddd0c0f5-237" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.48,49.73)" id="img-ddd0c0f5-238" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71.14,53.17)" id="img-ddd0c0f5-239" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(71,54)" id="img-ddd0c0f5-240" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.24,54.11)" id="img-ddd0c0f5-241" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(74.3,54)" id="img-ddd0c0f5-242" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.35,54.57)" id="img-ddd0c0f5-243" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.2,54)" id="img-ddd0c0f5-244" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.54,53.42)" id="img-ddd0c0f5-245" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.73,53.68)" id="img-ddd0c0f5-246" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.87,52.73)" id="img-ddd0c0f5-247" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.03,52.29)" id="img-ddd0c0f5-248" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.19,51.1)" id="img-ddd0c0f5-249" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.36,49.63)" id="img-ddd0c0f5-250" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.38,48.41)" id="img-ddd0c0f5-251" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.49,46.5)" id="img-ddd0c0f5-252" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(78.95,53.1)" id="img-ddd0c0f5-253" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(79.04,54.21)" id="img-ddd0c0f5-254" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.27,52.32)" id="img-ddd0c0f5-255" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.36,51.73)" id="img-ddd0c0f5-256" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.61,51.76)" id="img-ddd0c0f5-257" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.71,50.75)" id="img-ddd0c0f5-258" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(80.98,49.75)" id="img-ddd0c0f5-259" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.06,49.04)" id="img-ddd0c0f5-260" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.29,46.43)" id="img-ddd0c0f5-261" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.38,44.37)" id="img-ddd0c0f5-262" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(81.52,36.87)" id="img-ddd0c0f5-263" stroke="#20005C">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(49.64,44.68)" id="img-ddd0c0f5-264" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(72.28,43.28)" id="img-ddd0c0f5-265" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(49.64,44.79)" id="img-ddd0c0f5-266" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+              <g transform="translate(72.28,43.63)" id="img-ddd0c0f5-267" stroke="#A06F00">
+                <path fill="none" d="M-1.5,0 L 1.5 0" class="primitive"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="geometry" id="img-ddd0c0f5-268">
+          <g stroke-width="0.14" id="img-ddd0c0f5-269">
+            <g class="color_Varutbangkul_et_al._(2006)" fill-opacity="0.3" stroke="#CD950C" fill="#CD950C" id="img-ddd0c0f5-270">
+              <g class="marker" id="img-ddd0c0f5-271">
+                <g transform="translate(72.28,44.7)" id="img-ddd0c0f5-272">
+                  <path d="M-0.9,-0.36 L -0.9 0.36 -0.36 0.36 -0.36 0.9 0.36 0.9 0.36 0.36 0.9 0.36 0.9 -0.36 0.36 -0.36 0.36 -0.9 -0.36 -0.9 -0.36 -0.36 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Varutbangkul_et_al._(2006)" fill-opacity="0.3" stroke="#CD950C" fill="#CD950C" id="img-ddd0c0f5-273">
+              <g class="marker" id="img-ddd0c0f5-274">
+                <g transform="translate(49.64,45.76)" id="img-ddd0c0f5-275">
+                  <path d="M-0.9,-0.36 L -0.9 0.36 -0.36 0.36 -0.36 0.9 0.36 0.9 0.36 0.36 0.9 0.36 0.9 -0.36 0.36 -0.36 0.36 -0.9 -0.36 -0.9 -0.36 -0.36 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Varutbangkul_et_al._(2006)" fill-opacity="0.3" stroke="#CD950C" fill="#CD950C" id="img-ddd0c0f5-276">
+              <g class="marker" id="img-ddd0c0f5-277">
+                <g transform="translate(72.28,44.38)" id="img-ddd0c0f5-278">
+                  <path d="M-0.9,-0.36 L -0.9 0.36 -0.36 0.36 -0.36 0.9 0.36 0.9 0.36 0.36 0.9 0.36 0.9 -0.36 0.36 -0.36 0.36 -0.9 -0.36 -0.9 -0.36 -0.36 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Varutbangkul_et_al._(2006)" fill-opacity="0.3" stroke="#CD950C" fill="#CD950C" id="img-ddd0c0f5-279">
+              <g class="marker" id="img-ddd0c0f5-280">
+                <g transform="translate(49.64,45.66)" id="img-ddd0c0f5-281">
+                  <path d="M-0.9,-0.36 L -0.9 0.36 -0.36 0.36 -0.36 0.9 0.36 0.9 0.36 0.36 0.9 0.36 0.9 -0.36 0.36 -0.36 0.36 -0.9 -0.36 -0.9 -0.36 -0.36 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-282">
+              <g class="marker" id="img-ddd0c0f5-283">
+                <g transform="translate(81.52,38.74)" id="img-ddd0c0f5-284">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-285">
+              <g class="marker" id="img-ddd0c0f5-286">
+                <g transform="translate(81.38,45.6)" id="img-ddd0c0f5-287">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-288">
+              <g class="marker" id="img-ddd0c0f5-289">
+                <g transform="translate(81.29,47.48)" id="img-ddd0c0f5-290">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-291">
+              <g class="marker" id="img-ddd0c0f5-292">
+                <g transform="translate(81.06,49.87)" id="img-ddd0c0f5-293">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-294">
+              <g class="marker" id="img-ddd0c0f5-295">
+                <g transform="translate(80.98,50.52)" id="img-ddd0c0f5-296">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-297">
+              <g class="marker" id="img-ddd0c0f5-298">
+                <g transform="translate(80.71,51.44)" id="img-ddd0c0f5-299">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-300">
+              <g class="marker" id="img-ddd0c0f5-301">
+                <g transform="translate(80.61,52.35)" id="img-ddd0c0f5-302">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-303">
+              <g class="marker" id="img-ddd0c0f5-304">
+                <g transform="translate(80.36,52.33)" id="img-ddd0c0f5-305">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-306">
+              <g class="marker" id="img-ddd0c0f5-307">
+                <g transform="translate(80.27,52.87)" id="img-ddd0c0f5-308">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-309">
+              <g class="marker" id="img-ddd0c0f5-310">
+                <g transform="translate(79.04,54.6)" id="img-ddd0c0f5-311">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-312">
+              <g class="marker" id="img-ddd0c0f5-313">
+                <g transform="translate(78.95,53.58)" id="img-ddd0c0f5-314">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-315">
+              <g class="marker" id="img-ddd0c0f5-316">
+                <g transform="translate(81.49,47.55)" id="img-ddd0c0f5-317">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-318">
+              <g class="marker" id="img-ddd0c0f5-319">
+                <g transform="translate(81.38,49.29)" id="img-ddd0c0f5-320">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-321">
+              <g class="marker" id="img-ddd0c0f5-322">
+                <g transform="translate(81.36,50.41)" id="img-ddd0c0f5-323">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-324">
+              <g class="marker" id="img-ddd0c0f5-325">
+                <g transform="translate(81.19,51.75)" id="img-ddd0c0f5-326">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-327">
+              <g class="marker" id="img-ddd0c0f5-328">
+                <g transform="translate(81.03,52.84)" id="img-ddd0c0f5-329">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-330">
+              <g class="marker" id="img-ddd0c0f5-331">
+                <g transform="translate(80.87,53.25)" id="img-ddd0c0f5-332">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-333">
+              <g class="marker" id="img-ddd0c0f5-334">
+                <g transform="translate(80.73,54.11)" id="img-ddd0c0f5-335">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-336">
+              <g class="marker" id="img-ddd0c0f5-337">
+                <g transform="translate(80.54,53.87)" id="img-ddd0c0f5-338">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-339">
+              <g class="marker" id="img-ddd0c0f5-340">
+                <g transform="translate(80.2,54.41)" id="img-ddd0c0f5-341">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-342">
+              <g class="marker" id="img-ddd0c0f5-343">
+                <g transform="translate(80.35,54.92)" id="img-ddd0c0f5-344">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-345">
+              <g class="marker" id="img-ddd0c0f5-346">
+                <g transform="translate(74.3,54.41)" id="img-ddd0c0f5-347">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-348">
+              <g class="marker" id="img-ddd0c0f5-349">
+                <g transform="translate(74.24,54.5)" id="img-ddd0c0f5-350">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-351">
+              <g class="marker" id="img-ddd0c0f5-352">
+                <g transform="translate(71,54.41)" id="img-ddd0c0f5-353">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-354">
+              <g class="marker" id="img-ddd0c0f5-355">
+                <g transform="translate(71.14,53.65)" id="img-ddd0c0f5-356">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-357">
+              <g class="marker" id="img-ddd0c0f5-358">
+                <g transform="translate(81.48,50.5)" id="img-ddd0c0f5-359">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-360">
+              <g class="marker" id="img-ddd0c0f5-361">
+                <g transform="translate(81.31,52.71)" id="img-ddd0c0f5-362">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-363">
+              <g class="marker" id="img-ddd0c0f5-364">
+                <g transform="translate(81.22,53.18)" id="img-ddd0c0f5-365">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-366">
+              <g class="marker" id="img-ddd0c0f5-367">
+                <g transform="translate(81,54.16)" id="img-ddd0c0f5-368">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-369">
+              <g class="marker" id="img-ddd0c0f5-370">
+                <g transform="translate(80.91,54.43)" id="img-ddd0c0f5-371">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-372">
+              <g class="marker" id="img-ddd0c0f5-373">
+                <g transform="translate(80.66,55.09)" id="img-ddd0c0f5-374">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-375">
+              <g class="marker" id="img-ddd0c0f5-376">
+                <g transform="translate(80.57,54.82)" id="img-ddd0c0f5-377">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-378">
+              <g class="marker" id="img-ddd0c0f5-379">
+                <g transform="translate(80.32,55.19)" id="img-ddd0c0f5-380">
+                  <path d="M-0.78,-0.67 L 0.78 -0.67 0 0.68 0 0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Petters_et_al._(2009)" fill-opacity="0.3" stroke="#4B0082" fill="#4B0082" id="img-ddd0c0f5-381">
+              <g class="marker" id="img-ddd0c0f5-382">
+                <g transform="translate(80.24,54.89)" id="img-ddd0c0f5-383">
+                  <path d="M-0.78,-0.68 L 0.78 -0.68 0 0.67 0 0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-384">
+              <g class="marker" id="img-ddd0c0f5-385">
+                <g transform="translate(77.06,29.42)" id="img-ddd0c0f5-386">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-387">
+              <g class="marker" id="img-ddd0c0f5-388">
+                <g transform="translate(77.11,26.94)" id="img-ddd0c0f5-389">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-390">
+              <g class="marker" id="img-ddd0c0f5-391">
+                <g transform="translate(71.27,32.13)" id="img-ddd0c0f5-392">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-393">
+              <g class="marker" id="img-ddd0c0f5-394">
+                <g transform="translate(71.27,30.63)" id="img-ddd0c0f5-395">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-396">
+              <g class="marker" id="img-ddd0c0f5-397">
+                <g transform="translate(67.78,33.89)" id="img-ddd0c0f5-398">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-399">
+              <g class="marker" id="img-ddd0c0f5-400">
+                <g transform="translate(67.83,31.05)" id="img-ddd0c0f5-401">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-402">
+              <g class="marker" id="img-ddd0c0f5-403">
+                <g transform="translate(64.26,34.29)" id="img-ddd0c0f5-404">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-405">
+              <g class="marker" id="img-ddd0c0f5-406">
+                <g transform="translate(64.25,32.08)" id="img-ddd0c0f5-407">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-408">
+              <g class="marker" id="img-ddd0c0f5-409">
+                <g transform="translate(60.57,35.1)" id="img-ddd0c0f5-410">
+                  <path d="M-0,-0.9 L 0.9 0 -0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.7" fill-opacity="0.3" stroke="#4F94CD" fill="#4F94CD" id="img-ddd0c0f5-411">
+              <g class="marker" id="img-ddd0c0f5-412">
+                <g transform="translate(60.58,33.89)" id="img-ddd0c0f5-413">
+                  <path d="M0,-0.9 L 0.9 0 0 0.9 -0.9 0 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-414">
+              <g class="marker" id="img-ddd0c0f5-415">
+                <g transform="translate(77.8,35.1)" id="img-ddd0c0f5-416">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-417">
+              <g class="marker" id="img-ddd0c0f5-418">
+                <g transform="translate(77.74,33.44)" id="img-ddd0c0f5-419">
+                  <path d="M-0.78,0.67 L 0.78 0.67 0 -0.68 0 -0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-420">
+              <g class="marker" id="img-ddd0c0f5-421">
+                <g transform="translate(74.75,38.27)" id="img-ddd0c0f5-422">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-423">
+              <g class="marker" id="img-ddd0c0f5-424">
+                <g transform="translate(74.71,37.15)" id="img-ddd0c0f5-425">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-426">
+              <g class="marker" id="img-ddd0c0f5-427">
+                <g transform="translate(71.34,40.04)" id="img-ddd0c0f5-428">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-429">
+              <g class="marker" id="img-ddd0c0f5-430">
+                <g transform="translate(71.3,38.81)" id="img-ddd0c0f5-431">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-432">
+              <g class="marker" id="img-ddd0c0f5-433">
+                <g transform="translate(67.96,41.42)" id="img-ddd0c0f5-434">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-435">
+              <g class="marker" id="img-ddd0c0f5-436">
+                <g transform="translate(67.96,39.95)" id="img-ddd0c0f5-437">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-438">
+              <g class="marker" id="img-ddd0c0f5-439">
+                <g transform="translate(64.41,38.54)" id="img-ddd0c0f5-440">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-441">
+              <g class="marker" id="img-ddd0c0f5-442">
+                <g transform="translate(64.54,37.73)" id="img-ddd0c0f5-443">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-444">
+              <g class="marker" id="img-ddd0c0f5-445">
+                <g transform="translate(60.48,38.52)" id="img-ddd0c0f5-446">
+                  <path d="M-0.78,0.68 L 0.78 0.68 0 -0.67 0 -0.67 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.55" fill-opacity="0.3" stroke="#000000" fill="#000000" id="img-ddd0c0f5-447">
+              <g class="marker" id="img-ddd0c0f5-448">
+                <g transform="translate(60.52,37.6)" id="img-ddd0c0f5-449">
+                  <path d="M-0.78,0.67 L 0.78 0.67 0 -0.68 0 -0.68 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-450">
+              <g class="marker" id="img-ddd0c0f5-451">
+                <g transform="translate(76.8,50.09)" id="img-ddd0c0f5-452">
+                  <path d="M0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-453">
+              <g class="marker" id="img-ddd0c0f5-454">
+                <g transform="translate(76.82,49.31)" id="img-ddd0c0f5-455">
+                  <path d="M-0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 -0 0.8 0.4 0.4 0.8 -0 0.4 -0.4 0.8 -0.8 0.4 -0.4 -0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-456">
+              <g class="marker" id="img-ddd0c0f5-457">
+                <g transform="translate(74.15,48.53)" id="img-ddd0c0f5-458">
+                  <path d="M0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-459">
+              <g class="marker" id="img-ddd0c0f5-460">
+                <g transform="translate(74.24,47.43)" id="img-ddd0c0f5-461">
+                  <path d="M-0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 -0 0.8 0.4 0.4 0.8 -0 0.4 -0.4 0.8 -0.8 0.4 -0.4 -0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-462">
+              <g class="marker" id="img-ddd0c0f5-463">
+                <g transform="translate(70.89,47.08)" id="img-ddd0c0f5-464">
+                  <path d="M-0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 -0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-465">
+              <g class="marker" id="img-ddd0c0f5-466">
+                <g transform="translate(70.93,45.53)" id="img-ddd0c0f5-467">
+                  <path d="M0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-468">
+              <g class="marker" id="img-ddd0c0f5-469">
+                <g transform="translate(67.6,45.98)" id="img-ddd0c0f5-470">
+                  <path d="M-0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 -0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-471">
+              <g class="marker" id="img-ddd0c0f5-472">
+                <g transform="translate(64.18,44.84)" id="img-ddd0c0f5-473">
+                  <path d="M-0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 -0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-474">
+              <g class="marker" id="img-ddd0c0f5-475">
+                <g transform="translate(64.16,41.13)" id="img-ddd0c0f5-476">
+                  <path d="M0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-477">
+              <g class="marker" id="img-ddd0c0f5-478">
+                <g transform="translate(60.67,43.23)" id="img-ddd0c0f5-479">
+                  <path d="M0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+            <g class="color_Pajunoja_et_al._(2015)_O:C=0.45" fill-opacity="0.3" stroke="#8B0000" fill="#8B0000" id="img-ddd0c0f5-480">
+              <g class="marker" id="img-ddd0c0f5-481">
+                <g transform="translate(60.57,39.05)" id="img-ddd0c0f5-482">
+                  <path d="M0,-0.4 L 0.4 -0.8 0.8 -0.4 0.4 0 0.8 0.4 0.4 0.8 0 0.4 -0.4 0.8 -0.8 0.4 -0.4 0 -0.8 -0.4 -0.4 -0.8 z" class="primitive"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-ddd0c0f5-483">
+    <g transform="translate(14.3,56.1)" id="img-ddd0c0f5-484">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.00</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,50.09)" id="img-ddd0c0f5-485">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.02</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,44.08)" id="img-ddd0c0f5-486">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.04</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,38.07)" id="img-ddd0c0f5-487">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.06</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,32.06)" id="img-ddd0c0f5-488">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.08</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,26.05)" id="img-ddd0c0f5-489">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.10</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,20.04)" id="img-ddd0c0f5-490">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.12</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,14.02)" id="img-ddd0c0f5-491">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.14</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,8.01)" id="img-ddd0c0f5-492">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.16</text>
+      </g>
+    </g>
+    <g transform="translate(14.3,2)" id="img-ddd0c0f5-493">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">0.18</text>
+      </g>
+    </g>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-ddd0c0f5-494">
+    <g transform="translate(3.81,27.05)" id="img-ddd0c0f5-495">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.35em" transform="rotate(-90,0, 2)">Mass-based hygroscopicity (-)</text>
+      </g>
+    </g>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-ddd0c0f5-23">
+    <path d="M15.3,0 L 85.92 0 85.92 58.1 15.3 58.1" />
+  </clipPath>
+</defs>
+</svg>
